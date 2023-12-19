@@ -1,4 +1,4 @@
-### Hi there 👋
+A dex platform based on bsc,tron,eth.
 
 <!--
 **beewallet/beewallet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
